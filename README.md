@@ -1,5 +1,6 @@
 # tistory-archive
 
+- [React-hook-form에서 Cannot read properties of undefined (reading 'type') 해결하기](https://roronoa-jongjin.tistory.com/10)
 - [Nextjs에서 localStorage is not defined 해결하기](https://roronoa-jongjin.tistory.com/6)
 - [Atomic Design Pattern 파헤치기](https://roronoa-jongjin.tistory.com/9)
 - [Javascript 동작 원리 파악하기](https://roronoa-jongjin.tistory.com/8)
