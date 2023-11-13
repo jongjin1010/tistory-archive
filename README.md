@@ -9,5 +9,4 @@
 - [연산자를 통해 Type 정의하기](https://roronoa-jongjin.tistory.com/11)
 - [React-hook-form에서 Cannot read properties of undefined (reading 'type') 해결하기](https://roronoa-jongjin.tistory.com/10)
 - [Nextjs에서 localStorage is not defined 해결하기](https://roronoa-jongjin.tistory.com/6)
-- [[Javascript] Spread 연산자란?](https://roronoa-jongjin.tistory.com/12)
 
