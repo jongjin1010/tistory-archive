@@ -1,5 +1,3 @@
-# tistory-archive
-
 ## React / Next
 - [Fragment vs Null](https://roronoa-jongjin.tistory.com/16)
 - [React를 더 효과적으로 사용하기](https://roronoa-jongjin.tistory.com/15)
