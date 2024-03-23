@@ -14,11 +14,15 @@
 - [React-Query로 Optimistic UI 구현하기](https://roronoa-jongjin.tistory.com/5)
 - [Axios interceptor에서 multiple requests handling 하기](https://roronoa-jongjin.tistory.com/3)
 
-## Design Pattern
-- [Atomic Design Pattern 파헤치기](https://roronoa-jongjin.tistory.com/9)
+## Cloud
+- [Crontab을 활용한 클라우드 타입 서비스 배포 자동화](https://roronoa-jongjin.tistory.com/18)
 
 ## Git
 - [Git LFS로 파일 용량 초과 error 해결하기](https://roronoa-jongjin.tistory.com/13)
+
+## Design Pattern
+- [Atomic Design Pattern 파헤치기](https://roronoa-jongjin.tistory.com/9)
+
 
 
 
