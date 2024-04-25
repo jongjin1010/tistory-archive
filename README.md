@@ -14,7 +14,7 @@
 ## Library
 - [조금 늦은 Tailwind CSS 사용 후기](https://roronoa-jongjin.tistory.com/20)
 - [React-hook-form에서 Cannot read properties of undefined 해결하기](https://roronoa-jongjin.tistory.com/10)
-- [React-Query로 Optimistic UI 구현하기](https://roronoa-jongjin.tistory.com/5)
+- ~~[React-Query로 Optimistic UI 구현하기](https://roronoa-jongjin.tistory.com/5)~~
 - [Axios interceptor에서 multiple requests handling 하기](https://roronoa-jongjin.tistory.com/3)
 
 ## ETC
