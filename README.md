@@ -1,6 +1,7 @@
-### [Recent Posting](https://roronoa-jongjin.tistory.com/22)
+### [Recent Posting](https://roronoa-jongjin.tistory.com/23)
 
 ## React / Next
+- [useEffect와 IIFE](https://roronoa-jongjin.tistory.com/23)
 - [Fragment vs Null](https://roronoa-jongjin.tistory.com/16)
 - [React를 더 효과적으로 사용하기](https://roronoa-jongjin.tistory.com/15)
 - [Nextjs에서 localStorage is not defined 해결하기](https://roronoa-jongjin.tistory.com/6)
