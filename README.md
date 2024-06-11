@@ -1,4 +1,4 @@
-### [Recent Posting](https://roronoa-jongjin.tistory.com/23)
+### [Recent Posting](https://roronoa-jongjin.tistory.com/15)
 
 ## React / Next
 - [useEffect와 IIFE](https://roronoa-jongjin.tistory.com/23)
