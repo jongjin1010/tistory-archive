@@ -1,5 +1,3 @@
-### [Recent Posting](https://roronoa-jongjin.tistory.com/15)
-
 ## React / Next
 - [useEffect와 IIFE](https://roronoa-jongjin.tistory.com/23)
 - [Fragment vs Null](https://roronoa-jongjin.tistory.com/16)
