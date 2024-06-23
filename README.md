@@ -21,7 +21,7 @@
 - [Axios interceptor에서 multiple requests handling 하기](https://roronoa-jongjin.tistory.com/3)
 
 ## ETC
-- [인상 깊었던 기술 질문 모음](https://roronoa-jongjin.tistory.com/26)
+- [인상 깊었던 기술 질문 모음.zip](https://roronoa-jongjin.tistory.com/26)
 - [CORS anywhere를 소개합니다](https://roronoa-jongjin.tistory.com/21)
 - [RedisConnectionFailureException 해결하기](https://roronoa-jongjin.tistory.com/19)
 - [Crontab을 활용한 클라우드 타입 서비스 배포 자동화](https://roronoa-jongjin.tistory.com/18)
